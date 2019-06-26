@@ -1,0 +1,112 @@
+{
+  "countries": [
+    {
+      "name": [
+        "Russia", 
+        "Россия"
+      ],
+      "isoCode": "RUS",
+      "currency": [
+        {
+          "letter": "RUB",
+          "digit": 643
+        }
+      ],
+      "cities": [
+        {
+          "name": [
+            "Moscow", 
+            "Москва"
+          ], 
+          "population": 11920000
+        }, 
+        {
+          "name": [
+            "Novosibirsk", 
+            "Новосибирск"
+        ],
+          "population": 1511000
+        }, 
+        {
+          "name": [
+            "Ulyanovsk",
+            "Ульяновск"
+          ],
+          "population": 626540
+        }
+      ]
+    },
+    {
+      "name": [
+        "Ukrain", 
+        "Украина"
+      ],
+      "isoCode": "UKR",
+      "currency": [
+        {
+          "letter": "UAH",
+          "digit": 980
+        }
+      ],
+      "cities": [
+        {
+          "name": [
+            "Kiev",
+            "Киев"
+          ],
+          "population": 2884000
+        },
+        {
+          "name": [
+            "Kharkov",
+            "Харьков"
+          ],
+          "population": 1446107
+        },
+        {
+          "name": [
+            "Odessa",
+            "Одесса"
+          ],
+          "population": 1011494
+        }
+      ]
+    },
+    {
+      "name": [
+        "Georgia",
+        "Грузия"
+      ],
+      "isoCode": "GEO",
+      "currency": [
+        {
+          "letter": "GEL",
+          "digit": 981
+        }
+      ],
+      "cities": [
+        {
+          "name": [
+            "Tbilisi",
+            "Тбилиси"
+          ],
+          "population": 1083800
+        },
+        {
+          "name": [
+            "Abasha",
+            "Абаша"
+          ],
+          "population": 6300
+        },
+        {
+          "name": [
+            "Ahmeta",
+            "Ахмета"
+          ],
+          "population": 7105
+        }
+      ]
+    }
+  ]
+}
