@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8">
+<countries>
+    <country isoCode="RUS">
+        <name latinName="Russia" cyrillicName="Россия" />
+        <currency letter="RUB" digit="643" />
+        <cities>
+            <city latinName="Moscow" cyrillicName="Москва" population="11920000" />
+            <city latinName="Novosibirsk" cyrillicName="Новосибирск" population="1511000" />
+            <city latinName="Ulyanovsk" cyrillicName="Ульяновск" population="626540" />
+        </cities>
+    </country>
+    <country isoCode="UKR">
+        <name latinName="Ukrain" cyrillicName="Украина" />
+        <currency letter="UAH" digit="980" />
+        <cities>
+            <city latinName="Kiev" cyrillicName="Киев" population="2884000" />
+            <city latinName="Kharkov" cyrillicName="Харьков" population="1446107" />
+            <city latinName="Odessa" cyrillicName="Одесса" population="1446107" />
+        </cities>
+    </country>
+    <country isoCode="GEO">
+        <name latinName="Georgia" cyrillicName="Грузия" />
+        <currency letter="GEL" digit="981" />
+        <cities>
+            <city latinName="Tbilisi" cyrillicName="Тбилиси" population="1083800" />
+            <city latinName="Abasha" cyrillicName="Абаша" population="6300" />
+            <city latinName="Ahmeta" cyrillicName="Ахмета" population="7105" />
+        </cities>
+    </country>
+</countries>
